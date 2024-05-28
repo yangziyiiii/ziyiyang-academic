@@ -1,88 +1,52 @@
 ---
-# Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
+title: Ziyi Yang（杨子毅）
 superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
-role: Chief Scientist
-
-# Organizations/Affiliations to display in Biography blox
+highlight_name: no
+role: "Ph.D. Student"
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: "HKUST(GZ)"
+    url: "https://www.hkust-gz.edu.cn/"
+email: "yangziyi@student.cup.edu.cn"
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    link: "mailto:yangziyi@student.cup.edu.cn"
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://github.com/yangziyiiii
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0001-8778-9125
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Formal Verification
+  - Equivalence Checking
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Student in Microelectronics
+    institution: Hong Kong University of Science and Technology (Guangzhou)
+    date_start: 2024-09-01
+    date_end: 
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: BEng in Electronic and Information Engineering
+    institution: China University of Petroleum (Beijing)
+    date_start: 2020-09-01
+    date_end: 2026-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 86.1
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -181,6 +145,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+# About Me
+<!-- Ziyi Yang is currently a Ph.D. student at the Microelectronics Thrust, Function Hub of the [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hongce ZHANG](https://hongcezh.people.ust.hk/) and Prof. [Jiayi HUANG](https://jyhuang91.github.io/). Prior to this, I received my B.Eng in the Department of Electronics and Information Engineering from the China University of Petroleum, Beijing, under the supervision of [Prof. Zhou JIN](https://www.cup.edu.cn/cise/szdw/fjs1/79700adbef66459e815732d688f268db.htm). My research interest includes Formal Verification. -->
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ziyi Yang is currently a Ph.D. student at the Microelectronics Thrust, Function Hub of the <span style="background-color: #90EE90;"><a href="https://www.hkust-gz.edu.cn/" style="text-decoration: none; color: inherit;">HKUST(GZ)</a></span>, advised by <span style="background-color: #90EE90;"><a href="https://hongcezh.people.ust.hk/" style="text-decoration: none; color: inherit;">Prof. Hongce ZHANG</a></span> and Prof. <span style="background-color: #90EE90;"><a href="https://jyhuang91.github.io/" style="text-decoration: none; color: inherit;">Jiayi HUANG</a></span>. Prior to this, I received my B.Eng in the Department of Electronics and Information Engineering from the China University of Petroleum, Beijing, under the supervision of <span style="background-color: #90EE90;"><a href="https://www.cup.edu.cn/cise/szdw/fjs1/79700adbef66459e815732d688f268db.htm" style="text-decoration: none; color: inherit;">Prof. Zhou JIN</a></span>. My research interest includes Formal Verification.
